@@ -1,0 +1,27 @@
+{
+  "name": "zisays/rhythm",
+  "description": "PHP Web Framework",
+  "type": "project",
+  "license": "MIT",
+  "reqyire": "",
+  "authors": [
+    {
+      "name": "zisays",
+      "email": "zisayzhang@outlook.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=8.0"
+  },
+  "require-dev": {
+    "zisays/symbol": "dev-master",
+    "zisays/rack": "dev-master"
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
